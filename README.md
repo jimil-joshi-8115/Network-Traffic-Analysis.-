@@ -25,6 +25,7 @@ Network-Traffic-Analysis/
 |---|---|---|---|
 | [Case_01](Case_01_NetSupport_RAT/) | 2026-02-28 — "Easy as 123" (malware-traffic-analysis.net) | 🔴 TP | T1219, T1071.001 |
 | [Case_02](Case_02_Lumma_Stealer/) | 2026-01-31 — "Lumma in the Room-ah!" (malware-traffic-analysis.net) | 🔴 TP | T1560, T1005, T1041, T1071.001 |
+| [Case_03](Case_03_Its_A_Trap/) | 2025-06-13 — "It's a trap!" (malware-traffic-analysis.net) | 🔴 TP | T1041, T1071.001, T1090, T1036.005 |
 
 ---
 
